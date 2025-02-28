@@ -1,0 +1,5 @@
+# Estudio-experimental
+Se presenta una aplicación de un diseño experimental bifactorial para la incubación de huevos de gallina mediante incubadoras caseras.
+
+## Resumen
+Los diseños experimentales son útiles para comprender cómo funciona un proceso, estudiar las variables que le afectan, empleando herramientas estadísticas para obtener la información necesaria para su mejora. Con el fin de fomentar un diseño experimental, se realizó un diseño bifactorial aplicado a la incubación de huevos de gallina Kabir, mediante incubadoras caceras, teniendo como primer factor el tipo de incubadoras que se utilicen, como segundo factor el tratamiento de remojo que se le aplique y la variable respuesta será el número de huevos eclosionados exitosamente transcurrido el proceso de incubación. El diseño consta con 9 prototipos de incubadoras caceras distribuidas en tres grupos de acuerdo a su material de construcción y con 3 tipos de remojo. En la metodología se realiza una revisión bibliográfica de teoría sobre la incubación de huevos. El número de réplicas que se tienen en cuenta es de 72 huevos fértiles distribuidos aleatoriamente y en partes iguales para cada incubadora.
